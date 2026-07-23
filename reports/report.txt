@@ -1,0 +1,166 @@
+WINDOWS SERVICE & PROCESS MONITORING REPORT
+============================================================
+
+Generated On: 2026-07-23 12:35:26.787068
+
+Total Alerts: 157
+
+DETECTED ALERTS
+------------------------------------------------------------
+[MEDIUM] Unknown Process: System Idle Process
+[MEDIUM] Unknown Process: System
+[MEDIUM] Unknown Process: Registry
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: smss.exe
+[MEDIUM] Unknown Process: csrss.exe
+[MEDIUM] Unknown Process: wininit.exe
+[MEDIUM] Unknown Process: services.exe
+[MEDIUM] Unknown Process: LsaIso.exe
+[MEDIUM] Unknown Process: lsass.exe
+[MEDIUM] Unknown Process: fontdrvhost.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: WidgetService.exe
+[MEDIUM] Unknown Process: RtkAudUService64.exe
+[MEDIUM] Unknown Process: StartMenuExperienceHost.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: ZVMOUNT.EXE
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: dasHost.exe
+[MEDIUM] Unknown Process: atiesrxx.exe
+[MEDIUM] Unknown Process: EMAILSCN.EXE
+[MEDIUM] Unknown Process: MemCompression
+[MEDIUM] Unknown Process: DiagsCap.exe
+[MEDIUM] Unknown Process: AppHelperCap.exe
+[MEDIUM] Unknown Process: NetworkCap.exe
+[MEDIUM] Unknown Process: TouchpointAnalyticsClientService.exe
+[MEDIUM] Unknown Process: SysInfoCap.exe
+[MEDIUM] Unknown Process: SECOCL64.exe
+[MEDIUM] Unknown Process: dasHost.exe
+[MEDIUM] Unknown Process: FileCoAuth.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: unsecapp.exe
+[MEDIUM] Unknown Process: WmiPrvSE.exe
+[MEDIUM] Unknown Process: NgcIso.exe
+[MEDIUM] Unknown Process: spoolsv.exe
+[MEDIUM] Unknown Process: FileSyncHelper.exe
+[MEDIUM] Unknown Process: AnyDesk.exe
+[MEDIUM] Unknown Process: RtkBtManServ.exe
+[MEDIUM] Unknown Process: ijplmsvc.exe
+[MEDIUM] Unknown Process: ETDService.exe
+[MEDIUM] Unknown Process: RtkAudUService64.exe
+[MEDIUM] Unknown Process: SECOMN64.exe
+[MEDIUM] Unknown Process: NPHOST.EXE
+[MEDIUM] Unknown Process: MsMpEng.exe
+[MEDIUM] Unknown Process: wps.exe
+[MEDIUM] Unknown Process: wslservice.exe
+[MEDIUM] Unknown Process: MpDefenderCoreService.exe
+[MEDIUM] Unknown Process: NP2120CL.EXE
+[MEDIUM] Unknown Process: wps.exe
+[MEDIUM] Unknown Process: conhost.exe
+[MEDIUM] Unknown Process: AggregatorHost.exe
+[MEDIUM] Unknown Process: WmiPrvSE.exe
+[MEDIUM] Unknown Process: SearchProtocolHost.exe
+[MEDIUM] Unknown Process: NisSrv.exe
+[MEDIUM] Unknown Process: wps.exe
+[MEDIUM] Unknown Process: SecurityHealthSystray.exe
+[MEDIUM] Unknown Process: BraveCrashHandler.exe
+[MEDIUM] Unknown Process: BraveCrashHandler64.exe
+[MEDIUM] Unknown Process: PhoneExperienceHost.exe
+[MEDIUM] Unknown Process: pet.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: RtkWiFiManServ.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: NPAVIDS.EXE
+[MEDIUM] Unknown Process: wpscloudsvr.exe
+[MEDIUM] Unknown Process: conhost.exe
+[MEDIUM] Unknown Process: mediaget.exe
+[MEDIUM] Unknown Process: ShellHost.exe
+[MEDIUM] Unknown Process: smartscreen.exe
+[MEDIUM] Unknown Process: Spotify.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: csrss.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: CNQMUPDT.EXE
+[MEDIUM] Unknown Process: SecurityHealthService.exe
+[MEDIUM] Unknown Process: Spotify.exe
+[MEDIUM] Unknown Process: WmiApSrv.exe
+[MEDIUM] Unknown Process: Spotify.exe
+[MEDIUM] Unknown Process: Widgets.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: conhost.exe
+[MEDIUM] Unknown Process: winlogon.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: mediaget_crashpad_handler.exe
+[MEDIUM] Unknown Process: conhost.exe
+[MEDIUM] Unknown Process: atieclxx.exe
+[MEDIUM] Unknown Process: CNQMMAIN.EXE
+[MEDIUM] Unknown Process: RtkAudUService64.exe
+[MEDIUM] Unknown Process: Spotify.exe
+[MEDIUM] Unknown Process: promecefpluginhost.exe
+[MEDIUM] Unknown Process: AppActions.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: EMON.EXE
+[MEDIUM] Unknown Process: fontdrvhost.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: vmcompute.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: QtWebEngineProcess.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: audiodg.exe
+[MEDIUM] Unknown Process: infatica-service-app.exe
+[MEDIUM] Unknown Process: TextInputHost.exe
+[MEDIUM] Unknown Process: OpenConsole.exe
+[MEDIUM] Unknown Process: ETDCtrl.exe
+[MEDIUM] Unknown Process: conhost.exe
+[MEDIUM] Unknown Process: Spotify.exe
+[MEDIUM] Unknown Process: AnyDesk.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: ZVCMD64.EXE
+[MEDIUM] Unknown Process: LockApp.exe
+[MEDIUM] Unknown Process: OpenConsole.exe
+[MEDIUM] Unknown Process: WhatsApp.Root.exe
+[MEDIUM] Unknown Process: ShellExperienceHost.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: Spotify.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: promecefpluginhost.exe
+[MEDIUM] Unknown Process: OneDrive.Sync.Service.exe
+[MEDIUM] Unknown Process: CrossDeviceResume.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: OfficeClickToRun.exe
+[MEDIUM] Unknown Process: Spotify.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[MEDIUM] Unknown Process: msedgewebview2.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\kingsoft\wps office\12.1.0.27458\office6\wps.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\kingsoft\wpsoff~1\1210~1.274\office6\wps.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\kingsoft\wps office\12.1.0.27458\office6\wps.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\kingsoft\wps office\12.1.0.27458\office6\wpscloudsvr.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\roaming\spotify\spotify.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\roaming\spotify\spotify.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\roaming\spotify\spotify.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\roaming\spotify\spotify.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\kingsoft\wps office\12.1.0.27458\office6\promecefpluginhost.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\infatica-m\infatica-service-app.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\8a7abeba6e\resources\app\node_modules.asar.unpacked\node-pty\build\release\conpty\openconsole.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\roaming\spotify\spotify.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\8a7abeba6e\resources\app\node_modules.asar.unpacked\node-pty\build\release\conpty\openconsole.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\roaming\spotify\spotify.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\kingsoft\wps office\12.1.0.27458\office6\promecefpluginhost.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\python\pythoncore-3.14-64\python.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\local\programs\microsoft vs code\code.exe
+[CRITICAL] Suspicious Path Detected: c:\users\rajsh\appdata\roaming\spotify\spotify.exe
